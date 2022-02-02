@@ -13,7 +13,17 @@ Olá, eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo De
 </ul>
 
 ### ⚒️: Tecnologias e Ferramentas
-[]
+<ul>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>React</li>
+  <li>React Native</li>
+  <li>Node</li>
+  <li>MySQL</li>
+  <li>Python</li>
+  <li>Tensorflow</li>
+  
+</ul>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-morais)](https://github.com/anuraghazra/github-readme-stats)
