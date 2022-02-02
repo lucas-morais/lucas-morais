@@ -1,4 +1,19 @@
 ### Hi there 👋
+Olá, eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
+
+### 🔭 Interesses Pessoais
+
+<ul>
+  :watch: Esutdando para me tornar Desenvolvedor Web Fullstack 
+  :computer: Teste
+</ul>
+
+
+
+
+
+
+
 
 <!--
 **lucas-morais/lucas-morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
