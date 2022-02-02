@@ -4,8 +4,8 @@ Olá, eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo De
 ### 🔭 Interesses Pessoais
 
 <ul>
-  <li>:watch: Esutdando para me tornar Desenvolvedor Web Fullstack </li> 
-  <li> :computer: Aprendendo sobre backend com typescript </li>
+  <li> ⌚: Esutdando para me tornar Desenvolvedor Web Fullstack </li> 
+  <li> 💻: Aprendendo sobre backend com typescript </li>
   <li> 📆: Desenvolvendo APIs com express + sequelize/prisma </li>
   <li> 🍰: Descobrindo as vantagens do NextJs para aplicações React </li>
   <li> 📱: Explorando aplicações mobile através do React Native </li>
