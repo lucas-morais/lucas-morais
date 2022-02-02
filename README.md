@@ -12,9 +12,11 @@ Olá, eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo De
   <li> 🤖: Aprendendo a Desenvolver aplicações web com Machine Learning (TensorflowJs) </li>
 </ul>
 
+### ⚒️: Tecnologias e Ferramentas
+[]
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-morais)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
