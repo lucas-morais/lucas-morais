@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-[LinkedIn]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-m-toledo/)](Link perfil no LinkedIn)
+
 ### Olá 👋
 Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
 
