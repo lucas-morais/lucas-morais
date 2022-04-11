@@ -4,32 +4,66 @@
 
 
 
-### Olá 👋
+## Olá 👋
 Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
 
-### 🔭 Interesses Pessoais
+## 🔭 Interesses Pessoais
 
 <ul>
-  <li> ⌚: Esutdando Desenvolvimento Web (Fullstack)</li> 
+  <li> ⌚: Estudando Desenvolvimento Web (Fullstack)</li> 
   <li> 💻: Aprendendo sobre backend com typescript</li>
   <li> 📆: Desenvolvendo APIs com express + sequelize/prisma</li>
   <li> 🍰: Descobrindo as vantagens do NextJs para aplicações React</li>
   <li> 📱: Explorando aplicações mobile através do React Native</li>
   <li> 🤖: Aprendendo a Desenvolver aplicações web com Machine Learning (TensorflowJs)</li>
 </ul>
+<br>
+<br>
 
-### ⚒️: Tecnologias e Ferramentas
-<ul>
-  <li>Javascript</li>
-  <li>Typescript</li>
-  <li>React</li>
-  <li>React Native</li>
-  <li>Node</li>
-  <li>MySQL</li>
-  <li>Python</li>
-  <li>Tensorflow</li>
-</ul>
+## ⚒️ Tecnologias e Ferramentas
 
+###  Frontend 
+
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45px" width="45px"/>
+</p>
+
+### Backend
+
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="45px" width="45px"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45px" width="45px"/>
+</p>
+
+### Machine Learning / IA
+
+<p float="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45px" width="45px"/>
+</p>
+<br>
+<br>
+
+
+### Iniciando
+
+<p float="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45px" width="45px"/>
+</p>
+
+<br>
+<br>
+
+## :bar_chart: Estatísticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-morais&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
