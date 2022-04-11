@@ -6,6 +6,8 @@
 
 ## Olá 👋
 Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
+<br>
+<br>
 
 ## 🔭 Interesses Pessoais
 
@@ -48,8 +50,6 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45px" width="45px"/>
 </p>
-<br>
-<br>
 
 
 ### Iniciando
