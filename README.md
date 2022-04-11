@@ -1,5 +1,5 @@
-### Hi there 👋
-Olá, eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
+### Olá 👋
+Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
 
 ### 🔭 Interesses Pessoais
 
