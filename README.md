@@ -16,7 +16,7 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
   <li> 💻: Aprendendo sobre backend com typescript</li>
   <li> 📆: Desenvolvendo APIs com express + sequelize/prisma</li>
   <li> 🍰: Descobrindo as vantagens do NextJs para aplicações React</li>
-  <li> 📱: Explorando aplicações mobile através do React Native</li>
+  <li> :department_store: Utilizando banco de dados MySQL e MongoDB 
   <li> 🤖: Aprendendo a Desenvolver aplicações web com Machine Learning (TensorflowJs)</li>
 </ul>
 <br>
@@ -42,6 +42,9 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="45px" width="45px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+          
 </p>
 
 ### Machine Learning / IA
@@ -55,7 +58,6 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
 ### Iniciando
 
 <p float="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45px" width="45px"/>
 </p>
