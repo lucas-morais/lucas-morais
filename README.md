@@ -5,7 +5,9 @@
 
 
 ## Olá 👋
-Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvolvimento Web na Trybe
+Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB e adoro aprender.
+Sou Desenvolvedor Full Stack, com conhecimentos nos frameworks React, Srping e Node.
+Tenho sólidos conhecimentos em Ciência de Dados.
 <br>
 <br>
 
@@ -13,11 +15,13 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
 
 <ul>
   <li> ⌚: Estudando Desenvolvimento Web (Fullstack)</li> 
-  <li> 💻: Aprendendo sobre backend com typescript</li>
-  <li> 📆: Desenvolvendo APIs com express + sequelize/prisma</li>
+  <li> 💻: Aprendendo sobre backend com typescript, java e python</li>
+  <li> 📆: Desenvolvendo APIs com express + prisma</li>
   <li> 🍰: Descobrindo as vantagens do NextJs para aplicações React</li>
   <li> :department_store: Utilizando banco de dados MySQL e MongoDB 
-  <li> 🤖: Aprendendo a Desenvolver aplicações web com Machine Learning (TensorflowJs)</li>
+  <li> 🤖: Aprendendo a Desenvolver aplicações web/mobile com Machine Learning / IA</li>
+  <li> :chart_with_upwards_trend: Aprendendo sobre BI com Excel e Power BI</li>
+  <li>🆘:Aprendendo a utilizar IAs no processo de dsenvolvimento - ChatGPT, Phind e CodeWhisperer</li>
 </ul>
 <br>
 <br>
@@ -36,14 +40,17 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
 ### Backend
 
 <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45px" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="45px" width="45px"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45px" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45px" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45px" width="45px"/>
+          
+
           
 </p>
 
@@ -51,15 +58,20 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
 
 <p float="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45px" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45px"
+    width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45px" width="45px"/>
+
 </p>
 
 
-### Iniciando
+### Aprendendo
 
 <p float="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45px" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45px" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45px" width="45px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45px" width="45px"/>
+          
 </p>
 
 <br>
@@ -72,20 +84,3 @@ Eu me chamo Lucas de Morais Toledo, moro em João Pessoa - PB, e estudo Desenvol
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-morais&theme=radical&hide=html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<!--
-**lucas-morais/lucas-morais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
